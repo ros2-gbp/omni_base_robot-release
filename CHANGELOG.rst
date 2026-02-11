@@ -2,6 +2,19 @@
 Changelog for package omni_base_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.15.1 (2026-01-08)
+-------------------
+
+2.15.0 (2025-12-05)
+-------------------
+* Add gazebo_version xacro argument
+* Contributors: Noel Jimenez
+
+2.14.2 (2025-11-20)
+-------------------
+* added realsense2_description as exec_depend
+* Contributors: martinaannicelli
+
 2.14.1 (2025-08-28)
 -------------------
 * Update 2 files
