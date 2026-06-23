@@ -2,6 +2,22 @@
 Changelog for package omni_base_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.17.0 (2026-04-20)
+-------------------
+* Add pal configuration
+* Add compatibility for namespace
+* Switch to pal_joy + Update layout
+* Contributors: thomaspeyrucain
+
+2.16.1 (2026-03-25)
+-------------------
+
+2.16.0 (2026-03-20)
+-------------------
+* load controller only for gazebo version in pal environments
+* add gazebo versioning parameters
+* Contributors: thomasung
+
 2.15.1 (2026-01-08)
 -------------------
 
